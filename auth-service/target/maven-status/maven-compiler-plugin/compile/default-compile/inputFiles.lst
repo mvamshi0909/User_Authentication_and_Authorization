@@ -1,0 +1,12 @@
+/Users/vamshimaya002/Documents/Java Consultancy/auth-service/src/main/java/com/example/auth/security/JwtAuthenticationFilter.java
+/Users/vamshimaya002/Documents/Java Consultancy/auth-service/src/main/java/com/example/auth/config/JwtProperties.java
+/Users/vamshimaya002/Documents/Java Consultancy/auth-service/src/main/java/com/example/auth/model/User.java
+/Users/vamshimaya002/Documents/Java Consultancy/auth-service/src/main/java/com/example/auth/config/SecurityConfig.java
+/Users/vamshimaya002/Documents/Java Consultancy/auth-service/src/main/java/com/example/auth/repository/UserRepository.java
+/Users/vamshimaya002/Documents/Java Consultancy/auth-service/src/main/java/com/example/auth/controller/LoginRequest.java
+/Users/vamshimaya002/Documents/Java Consultancy/auth-service/src/main/java/com/example/auth/security/JwtTokenProvider.java
+/Users/vamshimaya002/Documents/Java Consultancy/auth-service/src/main/java/com/example/auth/model/Role.java
+/Users/vamshimaya002/Documents/Java Consultancy/auth-service/src/main/java/com/example/auth/AuthServiceApplication.java
+/Users/vamshimaya002/Documents/Java Consultancy/auth-service/src/main/java/com/example/auth/controller/AuthController.java
+/Users/vamshimaya002/Documents/Java Consultancy/auth-service/src/main/java/com/example/auth/service/UserService.java
+/Users/vamshimaya002/Documents/Java Consultancy/auth-service/src/main/java/com/example/auth/config/PasswordConfig.java
